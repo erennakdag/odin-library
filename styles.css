@@ -1,0 +1,23 @@
+/* center everything inside the body */
+body {
+  margin: 0 auto;
+  text-align: center;
+}
+
+/* center everything inside the wrapper div and the div itself */
+#wrapper {
+  margin: 0 auto;
+  text-align: center;
+  width: 300px;
+}
+
+.container {
+  margin: 10px 0 10px 0;
+  text-align: center;
+  width: 300px;
+  box-shadow: 0.125rem 0.125rem 0.125rem 0.125rem rgb(228, 228, 225);
+}
+
+#addBooksContainer {
+  text-align: left;
+}
